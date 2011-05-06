@@ -1,4 +1,5 @@
 <a href="http://blog.vjeux.com/2009/php/mysqli-wrapper-short-and-secure-queries.html">MysqliWrapper</a> - Short and Secure Queries
+===============
 
 Mysqli Wrapper is shortening the code required to run queries, make them 100% safe against SQL Injections and gives a handy Array as result. No more pain writing queries!
 
