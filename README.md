@@ -15,7 +15,7 @@ What's good about this:
 Example
 -------
 
-```php
+```javascript
 $db = new dbWrapper('host', 'user', 'pass', 'database', true);
 
 $result = $db->q("
